@@ -3,9 +3,12 @@ title: "Quarto Computations"
 echo: false
 fig-height: 3.5
 fig-width: 6
-# format: 
-#   html:
-    # code-fold: true
+format:
+  html:
+    embed-resources: true
+---
+📂 GitHub Repository: [https://github.com/jyj12345678900/gsb544-tutorial](https://github.com/jyj12345678900/gsb544-tutorial)
+
 ---
 
 This dataset contains a subset of the fuel economy data from the EPA.
